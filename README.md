@@ -12,8 +12,8 @@ The tool is a barebones implementation, designed around the concept of the victi
 3) Capture screenshots from the target machine
 
 Available hard coded commands:
-1)send (be prompted to send a file to the victim machine)
-2)download (be prompted to receive a file from the victim machine)
-3)screenshot (receive a screenshot from the victim's monitor)
+1) send (be prompted to send a file to the victim machine)
+2) download (be prompted to receive a file from the victim machine)
+3) screenshot (receive a screenshot from the victim's monitor)
 
 Known issues to-be-fixed: directory navigation is not yet possible
